@@ -7,4 +7,12 @@ Set up repo with README and Log files.
 
 **Thoughts:** I'm excited!
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** N/A
+
+### Day 1: Saturday, January 22, 2022
+
+**Today's Progress:**
+
+**Thoughts:** I
+
+**Link to work:** [Sample](http://www.example.com)
