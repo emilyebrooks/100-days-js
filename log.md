@@ -1,4 +1,4 @@
-# 100 Days Of JavaScript - Log
+# 100DaysOfJavaScript - Log
 
 ### Day 0: Friday, January 21, 2022
 
@@ -12,7 +12,10 @@ Set up repo with README and Log files.
 ### Day 1: Saturday, January 22, 2022
 
 **Today's Progress:**
+FreeCodeCamp -- JavaScript Algorithms and Data Structures
+Escape sequences in strings, concatenating, finding length and indexing, bracket notation, arrays
 
-**Thoughts:** I
+**Thoughts:**
+This was all easy review. Nice!
 
-**Link to work:** [Sample](http://www.example.com)
+**Link to work:** [FCC Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
