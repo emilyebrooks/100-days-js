@@ -30,3 +30,14 @@ Manipulating arrays, reusable functions, returns, scope
 Content was familiar and easy review.
 
 **Link to work:** [FCC Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
+
+### Day 3: Monday, January 24, 2022
+
+**Today's Progress:**
+FreeCodeCamp -- JavaScript Algorithms and Data Structures
+Queue's (new topic), Booleans, If Statements
+
+**Thoughts:**
+Learned about Queue's, which is new to me; other topics were good review.
+
+**Link to work:** [FCC Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
