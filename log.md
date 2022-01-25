@@ -41,3 +41,14 @@ Queue's (new topic), Booleans, If Statements
 Learned about Queue's, which is new to me; other topics were good review.
 
 **Link to work:** [FCC Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
+
+### Day 4: Tuesday, January 25, 2022
+
+**Today's Progress:**
+FreeCodeCamp -- JavaScript Algorithms and Data Structures
+Comparison Operators, If/Else Statements, Chaining If/Else
+
+**Thoughts:**
+More good review. It's nice to have these small doses of daily reminders and review.
+
+**Link to work:** [FCC Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
