@@ -52,3 +52,14 @@ Comparison Operators, If/Else Statements, Chaining If/Else
 More good review. It's nice to have these small doses of daily reminders and review.
 
 **Link to work:** [FCC Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
+
+### Day 5: Wednesday, January 26, 2022
+
+**Today's Progress:**
+Switching gears: Returning to Colt Steel JavaScript lessons in Web Dev Bootcamp 2022 Course on Udemy
+Function Scope, Block Scope, Lexical Scope
+
+**Thoughts:**
+Some of this is review from Skillcrush, but it's good to hear it in a new way.
+
+**Link to work:** [Colt Steel Leveling Up Functions Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22006460#overview)
