@@ -87,4 +87,5 @@ all the puzzle pieces into blueprints and solutions. I have done a lot of practi
 
 **Link to work:**
 [Colt Steel More Arrays](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22006460#overview)
-[My Quiz Results](https://www.w3schools.com/quiztest/quiztest.asp?qtest=JS)
+
+[The Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=JS)
