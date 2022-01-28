@@ -67,11 +67,24 @@ Some of this is review from Skillcrush, but it's good to hear it in a new way.
 ### Day 6: Thursday, January 27, 2022
 
 **Today's Progress:**
-Reviewed Arrays on Colt Steel Web Dev Bootcamp
-Function Scope, Block Scope, Lexical Scope
+Reviewed Arrays and Loops on Colt Steel Web Dev Bootcamp
 
 **Thoughts:**
 Good refresher. Concepts make sense, but good to have it pass through my brain again.
 Actually studied for over 1 hour.
 
-**Link to work:** [Colt Steel Leveling Up Functions Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22006460#overview)
+**Link to work:** [Colt Steel Arrays](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/21990986?start=60#overview)
+
+### Day 7: Friday, January 28, 2022
+
+**Today's Progress:**
+Read through previous class notes from Skillcrush, Colt Steel and Watch and Code
+Took a JavaScript quiz on W3Schools.com for "fun" - I got an 84%!
+
+**Thoughts:**
+When I review, it does feel familiar and exciting and it makes sense. It's just about connecting
+all the puzzle pieces into blueprints and solutions. I have done a lot of practice, and I know with more practice this will all click soon!
+
+**Link to work:**
+[Colt Steel More Arrays](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22006460#overview)
+[My Quiz Results](https://www.w3schools.com/quiztest/quiztest.asp?qtest=JS)
