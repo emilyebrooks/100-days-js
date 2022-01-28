@@ -63,3 +63,15 @@ Function Scope, Block Scope, Lexical Scope
 Some of this is review from Skillcrush, but it's good to hear it in a new way.
 
 **Link to work:** [Colt Steel Leveling Up Functions Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22006460#overview)
+
+### Day 6: Thursday, January 27, 2022
+
+**Today's Progress:**
+Reviewed Arrays on Colt Steel Web Dev Bootcamp
+Function Scope, Block Scope, Lexical Scope
+
+**Thoughts:**
+Good refresher. Concepts make sense, but good to have it pass through my brain again.
+Actually studied for over 1 hour.
+
+**Link to work:** [Colt Steel Leveling Up Functions Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22006460#overview)
