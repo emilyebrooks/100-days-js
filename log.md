@@ -100,3 +100,16 @@ n/a
 
 **Link to work:**
 n/a
+
+### Day 9: Sunday, January 30, 2022
+
+**Today's Progress:**
+Today I did exercises on W3Schools. The exercises covered topics such as:
+Variables, Operators, Data Types, Functions, Objects, Events, Strings, String Methods, Arrays, Array Methods, Sort, Dates, Math and Comparisons
+
+**Thoughts:**
+It was fun and good practice to move through various topics and have to use recall to solve the problems.
+Overall this was easy, but I like that kind of refresher from time to time.
+
+**Link to work:**
+[The Exercises](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_comparisons4)
