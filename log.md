@@ -89,3 +89,14 @@ all the puzzle pieces into blueprints and solutions. I have done a lot of practi
 [Colt Steel More Arrays](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22006460#overview)
 
 [The Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=JS)
+
+### Day 8: Saturday, January 29, 2022
+
+**Today's Progress:**
+I did not code today! Much needed day off. I did code an extra 30 minutes on Thursday this week, so overall I practiced/studied JavaScript for 3.5 hours this week!
+
+**Thoughts:**
+n/a
+
+**Link to work:**
+n/a
