@@ -113,3 +113,15 @@ Overall this was easy, but I like that kind of refresher from time to time.
 
 **Link to work:**
 [The Exercises](https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_comparisons4)
+
+### Day 10: Monday, January 31, 2022
+
+**Today's Progress:**
+Today I started a JavaScript fundamentals course on LinkedIn.
+
+**Thoughts:**
+I'm intrigued by this course already. The instructor says he will be starting the course by looking at the big picture, a complex overview of JavaScript, and then breaking it down into smaller pieces.
+I appreciate this b/c I have been learning little pieces and still am unsure how they all connect together. Instructor seems excited, speaks clearly and vividly, so I believe this will be captivating.
+
+**Link to work:**
+[LinkedIn Course](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fjavascript-essential-training%3Ftrk%3Dshare_ent_url%26shareId%3DQi9J%252BvoBQiyz%252FEwL40riWQ%253D%253D)
