@@ -125,3 +125,14 @@ I appreciate this b/c I have been learning little pieces and still am unsure how
 
 **Link to work:**
 [LinkedIn Course](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fjavascript-essential-training%3Ftrk%3Dshare_ent_url%26shareId%3DQi9J%252BvoBQiyz%252FEwL40riWQ%253D%253D)
+
+### Day 10: Monday, January 31, 2022 - PART 2
+
+**Today's Progress:**
+Created an account on CodeWars
+
+**Thoughts:**
+This is great practice for enhancing my skills and becoming more comfortable with these types of "tests".
+
+**Link to work:**
+[CodeWars](https://www.codewars.com/users/emilyebrooks)
