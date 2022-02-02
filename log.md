@@ -136,3 +136,14 @@ This is great practice for enhancing my skills and becoming more comfortable wit
 
 **Link to work:**
 [CodeWars](https://www.codewars.com/users/emilyebrooks)
+
+### Day 11: Tuesday, February 1, 2022
+
+**Today's Progress:**
+Continued with another kata on CodeWars
+
+**Thoughts:**
+I like having problems that I have to figure out the answers to by using my resources and usually applying something new.
+
+**Link to work:**
+[CodeWars](https://www.codewars.com/users/emilyebrooks)
