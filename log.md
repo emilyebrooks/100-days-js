@@ -147,3 +147,14 @@ I like having problems that I have to figure out the answers to by using my reso
 
 **Link to work:**
 [CodeWars](https://www.codewars.com/users/emilyebrooks)
+
+### Day 12: Wednesday, February 2, 2022
+
+**Today's Progress:**
+I did not practice JS today! :(
+
+**Thoughts:**
+I will make up for this time throughout the week by adding more time to other sessions.
+
+**Link to work:**
+n/a
