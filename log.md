@@ -124,7 +124,7 @@ I'm intrigued by this course already. The instructor says he will be starting th
 I appreciate this b/c I have been learning little pieces and still am unsure how they all connect together. Instructor seems excited, speaks clearly and vividly, so I believe this will be captivating.
 
 **Link to work:**
-[LinkedIn Course](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fjavascript-essential-training%3Ftrk%3Dshare_ent_url%26shareId%3DQi9J%252BvoBQiyz%252FEwL40riWQ%253D%253D)
+[LinkedIn JS Essentials](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fjavascript-essential-training%3Ftrk%3Dshare_ent_url%26shareId%3DQi9J%252BvoBQiyz%252FEwL40riWQ%253D%253D)
 
 ### Day 10: Monday, January 31, 2022 - PART 2
 
@@ -158,3 +158,14 @@ I will make up for this time throughout the week by adding more time to other se
 
 **Link to work:**
 n/a
+
+### Day 13: Thursday, February 3, 2022
+
+**Today's Progress:**
+Continued with LinkedIn JS Essentials class
+
+**Thoughts:**
+Mostly just setting up my workspace with the course files and suggested best extensions for VSC. I am excited to being exposed to a totally new instructor and course style. I always learn something new when watching or learning from new people.
+
+**Link to work:**
+[LinkedIn JS Essentials](https://www.linkedin.com/learning/javascript-essential-training/get-to-know-the-browser-console?autoAdvance=true&autoSkip=true&autoplay=true&resume=false)
