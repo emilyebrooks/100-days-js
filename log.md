@@ -169,3 +169,14 @@ Mostly just setting up my workspace with the course files and suggested best ext
 
 **Link to work:**
 [LinkedIn JS Essentials](https://www.linkedin.com/learning/javascript-essential-training/get-to-know-the-browser-console?autoAdvance=true&autoSkip=true&autoplay=true&resume=false)
+
+### Day 14: Friday, February 4, 2022
+
+**Today's Progress:**
+Continued with LinkedIn JS Essentials class
+
+**Thoughts:**
+Learned how to use the GoLive feature in VSC and use the console to debug code. Instructor, Morten, explains flow of class - we will learn Objects and methods first, then learn data types and the DOM, then cover methods, functions and events at the end. He admits this is a little backwards, but I am excited to hear from a totally new perspective. Since these are all topics I have learned before, I am exciting to hear them laid out in a new way.
+
+**Link to work:**
+[LinkedIn JS Essentials](https://www.linkedin.com/learning/javascript-essential-training/get-to-know-the-browser-console?autoAdvance=true&autoSkip=true&autoplay=true&resume=false)
