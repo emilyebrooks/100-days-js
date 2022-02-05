@@ -180,3 +180,14 @@ Learned how to use the GoLive feature in VSC and use the console to debug code. 
 
 **Link to work:**
 [LinkedIn JS Essentials](https://www.linkedin.com/learning/javascript-essential-training/get-to-know-the-browser-console?autoAdvance=true&autoSkip=true&autoplay=true&resume=false)
+
+### Day 15: Saturday, February 5, 2022
+
+**Today's Progress:**
+Continued with LinkedIn JS Essentials class - 45 minutes!
+
+**Thoughts:**
+Discussed placement of <script></script> tag, the concept of modules, and began learning about Objects. I like this high level overview.
+
+**Link to work:**
+[LinkedIn JS Essentials](https://www.linkedin.com/learning/javascript-essential-training/get-to-know-the-browser-console?autoAdvance=true&autoSkip=true&autoplay=true&resume=false)
