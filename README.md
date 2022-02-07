@@ -2,6 +2,10 @@
 
 To keep building my JavaScript skills, I am committing 30 minutes a day to continued JavaScript learning. Whether reading, practicing, building or experimenting, I will carve out a little time each day to better my skills and log my activity here.
 
+# Update:
+
+I have decided to take Sundays off. So I will do 100 days without Sundays.
+
 ## Plan:
 
 - Plan: Practice JavaScript every day for 100 days
