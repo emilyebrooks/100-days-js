@@ -191,3 +191,14 @@ Discussed placement of <script></script> tag, the concept of modules, and began 
 
 **Link to work:**
 [LinkedIn JS Essentials](https://www.linkedin.com/learning/javascript-essential-training/get-to-know-the-browser-console?autoAdvance=true&autoSkip=true&autoplay=true&resume=false)
+
+### Day 16: Monday, February 7, 2022
+
+**Today's Progress:**
+Continued with LinkedIn JS Essentials class
+
+**Thoughts:**
+Continued with Objects, learning dot and bracket methods. Included practice exercise for creating objects and accessing properties.
+
+**Link to work:**
+[LinkedIn JS Essentials](http://127.0.0.1:5500/Practice/03_07/)
