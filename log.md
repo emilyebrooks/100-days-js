@@ -202,3 +202,14 @@ Continued with Objects, learning dot and bracket methods. Included practice exer
 
 **Link to work:**
 [LinkedIn JS Essentials](http://127.0.0.1:5500/Practice/03_07/)
+
+### Day 17: Tuesday, February 8, 2022
+
+**Today's Progress:**
+Continued with LinkedIn JS Essentials class
+
+**Thoughts:**
+Continued with Objects and practicing methods. Very distracted! Review this lesson again tomorrow. Doh!
+
+**Link to work:**
+[LinkedIn JS Essentials](https://www.linkedin.com/learning/javascript-essential-training/get-to-know-the-browser-console?autoAdvance=true&autoSkip=true&autoplay=true&resume=false)
