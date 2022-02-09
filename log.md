@@ -213,3 +213,14 @@ Continued with Objects and practicing methods. Very distracted! Review this less
 
 **Link to work:**
 [LinkedIn JS Essentials](https://www.linkedin.com/learning/javascript-essential-training/get-to-know-the-browser-console?autoAdvance=true&autoSkip=true&autoplay=true&resume=false)
+
+### Day 18: Wednesday, February 9, 2022
+
+**Today's Progress:**
+Continued with LinkedIn JS Essentials class
+
+**Thoughts:**
+Continued with Objects and practicing methods. Fun!
+
+**Link to work:**
+[Practice 03_09](Practice/03_09/script.js)
