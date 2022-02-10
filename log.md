@@ -224,3 +224,14 @@ Continued with Objects and practicing methods. Fun!
 
 **Link to work:**
 [Practice 03_09](Practice/03_09/script.js)
+
+### Day 19: Thursday, February 10, 2022
+
+**Today's Progress:**
+Continued with LinkedIn JS Essentials class
+
+**Thoughts:**
+Practiced creating classes for multiple objects. Set up classes as modules, imported and exported. Used methods to change values on each object.
+
+**Link to work:**
+[Practice 03_12](Practice/03_12/script.js)
