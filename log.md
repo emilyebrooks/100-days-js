@@ -235,3 +235,15 @@ Practiced creating classes for multiple objects. Set up classes as modules, impo
 
 **Link to work:**
 [Practice 03_12](Practice/03_12/script.js)
+
+### Day 20: Friday, February 11, 2022
+
+**Today's Progress:**
+Continued with LinkedIn JS Essentials class
+
+**Thoughts:**
+Learned about Global Objects.
+Also, completed first challenge - which was to build new object type
+
+**Link to work:**
+[Challenge 03_15](Challenges/03_15/)
