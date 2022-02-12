@@ -9,6 +9,7 @@
 
 import Books from "./Books.js";
 
+//Book param order: title, numPages, category, hardCover, read, dateRead, shelf
 const book1 = new Books(
   "Savor", 
   276, 

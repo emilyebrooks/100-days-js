@@ -247,3 +247,14 @@ Also, completed first challenge - which was to build new object type
 
 **Link to work:**
 [Challenge 03_15](Challenges/03_15/)
+
+### Day 21: Saturday, February 12, 2022
+
+**Today's Progress:**
+Continued with LinkedIn JS Essentials class. I have about 3.5 hours left.
+
+**Thoughts:**
+Ojects quiz. Learned about JS and manipulating HTML.
+
+**Link to work:**
+[LinkedIn JS Essentials](https://www.linkedin.com/learning/javascript-essential-training/quiz/urn:li:learningApiAssessment:14471232?autoAdvance=true&autoSkip=false&autoplay=true&resume=false)
