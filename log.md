@@ -269,3 +269,14 @@ Practiced querySelectors and reviewed getElementById and getElementsByClass
 
 **Link to work:**
 [LinkedIn JS Essentials](https://www.linkedin.com/learning/javascript-essential-training/quiz/urn:li:learningApiAssessment:14471232?autoAdvance=true&autoSkip=false&autoplay=true&resume=false)
+
+### Day 23: Tuesday, February 15, 2022
+
+**Today's Progress:**
+Continued with LinkedIn JS Essentials class.
+
+**Thoughts:**
+Practiced querySelectors, grabbing and changing elements within the DOM
+
+**Link to work:**
+[Practice 05_04](Practice/05_04/script.js)
