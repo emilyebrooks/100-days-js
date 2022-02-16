@@ -280,3 +280,14 @@ Practiced querySelectors, grabbing and changing elements within the DOM
 
 **Link to work:**
 [Practice 05_04](Practice/05_04/script.js)
+
+### Day 24: Wednesday, February 16, 2022
+
+**Today's Progress:**
+Continued with LinkedIn JS Essentials class.
+
+**Thoughts:**
+Spent more time on the 05_04 practice exercise. Spent time to find out how to grab various elements.
+
+**Link to work:**
+[Practice 05_04](Practice/05_04/script.js)
