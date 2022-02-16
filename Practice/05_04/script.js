@@ -34,5 +34,10 @@ const openButtons = document.querySelectorAll(".lid-toggle");
 console.log(openButtons);
 
 //Change the backgroundColor on the Open lid buttons
-//Getting error message here. Posted question to LinkedIn class.
-openButtons.style.backgroundColor = "green";
+document.querySelector(".lid-toggle").style.backgroundColor = "lightblue"; 
+
+//Change font color on first child element only in first list
+document.querySelector("li:first-child").style.color="red"; 
+
+//Change font color on last child element in all lists
+document.querySelectorAll("li:last-child").forEach(item => item.style.color="purple");
