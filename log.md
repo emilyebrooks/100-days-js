@@ -291,3 +291,14 @@ Spent more time on the 05_04 practice exercise. Spent time to find out how to gr
 
 **Link to work:**
 [Practice 05_04](Practice/05_04/script.js)
+
+### Day 25: Thursday, February 17, 2022
+
+**Today's Progress:**
+Continued with LinkedIn JS Essentials class.
+
+**Thoughts:**
+Practiced manipulating classes, attributes and in-line styles
+
+**Link to work:**
+[Practice 05_08](Practice/05_08/script.js)
