@@ -302,3 +302,14 @@ Practiced manipulating classes, attributes and in-line styles
 
 **Link to work:**
 [Practice 05_08](Practice/05_08/script.js)
+
+### Day 26: Friday, February 18, 2022
+
+**Today's Progress:**
+Revisited practice exams and exercises with Skillcrush
+
+**Thoughts:**
+It's interesting to me how much this stuff makes sense to me after having stepped away from this particular class for awhile. It's like a more clear picture.
+
+**Link to work:**
+[CodeSandbox Practice](https://codesandbox.io/s/js-practice-omk8b7?file=/script.js)
