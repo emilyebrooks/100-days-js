@@ -313,3 +313,15 @@ It's interesting to me how much this stuff makes sense to me after having steppe
 
 **Link to work:**
 [CodeSandbox Practice](https://codesandbox.io/s/js-practice-omk8b7?file=/script.js)
+
+### Day 26 - Part 2: Friday, February 18, 2022
+
+**Today's Progress:**
+Revisited practice exams and exercises with Skillcrush
+
+**Thoughts:**
+More practice - querySelectors, Event and Event Listeners
+
+**Link to work:**
+[CodeSandbox Practice2](https://codesandbox.io/s/js-practice2-6cyd8j)
+[CodeSandbox Practice3](https://codesandbox.io/s/js-practice3-xrt5hz?file=/js/script.js:230-316)
