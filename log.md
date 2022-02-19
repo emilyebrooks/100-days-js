@@ -325,3 +325,15 @@ More practice - querySelectors, Event and Event Listeners
 **Link to work:**
 [CodeSandbox Practice2](https://codesandbox.io/s/js-practice2-6cyd8j)
 [CodeSandbox Practice3](https://codesandbox.io/s/js-practice3-xrt5hz?file=/js/script.js:230-316)
+
+### Day 27: Saturday, February 19, 2022
+
+**Today's Progress:**
+Revisited more practice exams and exercises with Skillcrush
+
+**Thoughts:**
+Worked on functions.
+
+**Link to work:**
+[CodeSandbox Practice4](https://codesandbox.io/s/js-practice4-cfjukp?file=/script.js)
+[CodeSandbox Practice5(debugging)](https://codesandbox.io/s/js-practice5-debugging-lvwdfg?file=/js/script.js)
