@@ -337,3 +337,14 @@ Worked on functions.
 **Link to work:**
 [CodeSandbox Practice4](https://codesandbox.io/s/js-practice4-cfjukp?file=/script.js)
 [CodeSandbox Practice5(debugging)](https://codesandbox.io/s/js-practice5-debugging-lvwdfg?file=/js/script.js)
+
+### Day 28: Monday, February 21, 2022
+
+**Today's Progress:**
+Revisited more practice exams and exercises with Skillcrush
+
+**Thoughts:**
+Reviewed API's, including the fetch random image practice project
+
+**Link to work:**
+[Practice API Fetch Random Images](Practice/js-l12-challenge-01)
