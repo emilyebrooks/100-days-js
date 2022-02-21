@@ -347,4 +347,4 @@ Revisited more practice exams and exercises with Skillcrush
 Reviewed API's, including the fetch random image practice project
 
 **Link to work:**
-[Practice API Fetch Random Images](Practice/js-l12-challenge-01)
+[Practice - API Fetch Random Images](Practice/js-l12-challenge-01)
