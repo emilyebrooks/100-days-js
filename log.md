@@ -348,3 +348,14 @@ Reviewed API's, including the fetch random image practice project
 
 **Link to work:**
 [Practice - API Fetch Random Images](Practice/js-l12-challenge-01)
+
+### Day 29: Monday, February 28, 2022
+
+**Today's Progress:**
+Back to LinkedIn JS Essentials Training Course
+
+**Thoughts:**
+Practiced adding new elements to the DOM
+
+**Link to work:**
+[LinkedIn JS Essentials](https://www.linkedin.com/learning/javascript-essential-training/solution-add-a-new-element?autoAdvance=true&autoSkip=true&autoplay=true&resume=false)
