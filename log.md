@@ -359,3 +359,14 @@ Practiced adding new elements to the DOM
 
 **Link to work:**
 [LinkedIn JS Essentials](https://www.linkedin.com/learning/javascript-essential-training/solution-add-a-new-element?autoAdvance=true&autoSkip=true&autoplay=true&resume=false)
+
+### Day 30: Tuesday, March 1, 2022
+
+**Today's Progress:**
+Picked back up on my reading of Eloquent JavaScript
+
+**Thoughts:**
+It's nice to change up the learning interface and step away from a computer screen for a brief time.
+
+**Link to work:**
+n/a
