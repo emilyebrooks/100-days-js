@@ -370,3 +370,14 @@ It's nice to change up the learning interface and step away from a computer scre
 
 **Link to work:**
 n/a
+
+### Day 31: Wednesday, March 2, 2022
+
+**Today's Progress:**
+Started researching how to flip a card using javascript
+
+**Thoughts:**
+This will be used for a multi-part project for VH website. Loved watching someone code live.
+
+**Link to work:**
+https://www.youtube.com/watch?v=C22hQKE_32c
