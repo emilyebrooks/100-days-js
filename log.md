@@ -392,3 +392,14 @@ This is a good resource for building the drag and drop into VH website.
 
 **Link to work:**
 https://www.youtube.com/watch?v=C22hQKE_32c
+
+### Day 33: Friday, March 4, 2022
+
+**Today's Progress:**
+Watched a 1 hour JavaScript Fundamentals video from the same guy I watched yesterday
+
+**Thoughts:**
+I like watching people code. It's interesting to watch other methods or "tricks". He spoke about forms and event listeners as well as including js in the <script></script> tags inside the HTML form, so that was new to me.
+
+**Link to work:**
+https://www.youtube.com/watch?v=vEROU2XtPR8
