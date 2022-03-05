@@ -403,3 +403,14 @@ I like watching people code. It's interesting to watch other methods or "tricks"
 
 **Link to work:**
 https://www.youtube.com/watch?v=vEROU2XtPR8
+
+### Day 34: Saturday, March 5, 2022
+
+**Today's Progress:**
+Started Color Flipper project from John Smilga. Found project on FreeCodeCamp.
+
+**Thoughts:**
+I just realized that I need to start doing actual projects. Reading and watching is fine, but it all sounds familiar at this point. I need to start doing different types of practice to bring this all to life. This color flipper concept will also translate to the VH project, where clicking will bring up a new word.
+
+**Link to work:**
+https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-color-flipper
