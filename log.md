@@ -414,3 +414,14 @@ I just realized that I need to start doing actual projects. Reading and watching
 
 **Link to work:**
 https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-color-flipper
+
+### Day 35: Monday, March 7, 2022
+
+**Today's Progress:**
+Started working on color flip project
+
+**Thoughts:**
+This is definitely exciting. I already see how building projects is the best way to learn.
+
+**Link to work:**
+[Color Flipper Project](Projects/color-flipper/)
