@@ -425,3 +425,14 @@ This is definitely exciting. I already see how building projects is the best way
 
 **Link to work:**
 [Color Flipper Project](Projects/color-flipper/)
+
+### Day 36: Tuesday, March 8, 2022
+
+**Today's Progress:**
+Finished color flip project. I also practiced this feature by adding it into the VH project.
+
+**Thoughts:**
+Super fun! And a great way to learn.
+
+**Link to work:**
+[Color Flipper Project](Projects/color-flipper/)

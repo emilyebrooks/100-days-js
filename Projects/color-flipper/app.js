@@ -20,5 +20,5 @@ btn.addEventListener("click", function(){
 
 //Create function to generate a true random number
 function getRandomNumber() {
-    return Math.floor(Math.random() * colors.length); //Multiply the random # (0 - 0.99) by length of the array and then round down to match an actual index position
+    return Math.floor(Math.random() * colors.length); //Multiply the random # (0 - 0.99) by length of the array, then round down to match an actual index position
 }
