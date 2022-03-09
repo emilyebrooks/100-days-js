@@ -436,3 +436,14 @@ Super fun! And a great way to learn.
 
 **Link to work:**
 [Color Flipper Project](Projects/color-flipper/)
+
+### Day 37: Wednesday, March 9, 2022
+
+**Today's Progress:**
+Started new project with John Smilga - Expandable Q&A
+
+**Thoughts:**
+Makes sense! I am excited to learn this and then incorporate into the Brooks Psychotherapy website.
+
+**Link to work:**
+[Expandable Q&A Project](Projects/faq-page/)
