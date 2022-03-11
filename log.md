@@ -447,3 +447,14 @@ Makes sense! I am excited to learn this and then incorporate into the Brooks Psy
 
 **Link to work:**
 [Expandable Q&A Project](Projects/faq-page/)
+
+### Day 38: Friday, March 11, 2022
+
+**Today's Progress:**
+Started building the Q&A page after watching videos. Following along.
+
+**Thoughts:**
+Fun stuff! Really enjoy this process of watching, recreating and then breaking and experimenting.
+
+**Link to work:**
+[Expandable Q&A Project](Projects/faq-page/)
