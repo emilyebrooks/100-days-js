@@ -220,26 +220,33 @@ Questions
   color: var(--clr-gold);
   transition: var(--transition);
 }
+
+/* When hovered over, the plus or minus icons rotate 90deg */
 .question-btn:hover {
   transform: rotate(90deg);
 }
-.question-text {
+
+.answer {
   padding: 1rem 0 1.5rem 0;
   border-top: 1px solid rgba(0, 0, 0, 0.2);
 }
-.question-text p {
+.answer p {
   margin-bottom: 0;
 }
-/* hide text */
-/* .question-text {
+/* hide the answer test by default */
+/* .answer {
   display: none;
-}
-.show-text .question-text {
+} */
+
+.show-text .answer {
   display: block;
 }
+
+/* Hide the minus icon by default */
 .minus-icon {
   display: none;
 }
+/*
 .show-text .minus-icon {
   display: inline;
 }
