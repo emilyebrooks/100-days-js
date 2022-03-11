@@ -7,7 +7,6 @@ console.log(answerText);
 
 btn.addEventListener("click", function(){
     answerText.classList.add="show-text"; 
-
 })
 
 
