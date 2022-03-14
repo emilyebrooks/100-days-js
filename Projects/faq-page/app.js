@@ -1,13 +1,15 @@
 // Method One: Traversing the DOM
-const btn = document.querySelector(".question-btn");
-console.log(btn); 
+const btns = document.querySelectorAll(".question-btn");
+// console.log(btns); 
 
 const answerText = document.querySelector(".answer"); 
-console.log(answerText); 
+// console.log(answerText); 
 
-btn.addEventListener("click", function(){
-    answerText.classList.add="show-text"; 
-})
+btns.forEach(function (btn) {
+    btn.addEventListener("click", function (e) {
+        console.log(e.this); 
+    });
+});
 
 
 
