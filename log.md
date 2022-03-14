@@ -459,7 +459,18 @@ Fun stuff! Really enjoy this process of watching, recreating and then breaking a
 **Link to work:**
 [Expandable Q&A Project](Projects/faq-page/)
 
-### Day 39: Friday, March 11, 2022
+### Day 39: Saturday, March 12, 2022
+
+**Today's Progress:**
+Experimenting with VH Card project
+
+**Thoughts:**
+Lots of ideas and thoughts. Great practice/experimental project.
+
+**Link to work:**
+n/a
+
+### Day 40: Monday, March 14, 2022
 
 **Today's Progress:**
 Continued practicing with the FAQ page feature
