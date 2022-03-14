@@ -458,3 +458,14 @@ Fun stuff! Really enjoy this process of watching, recreating and then breaking a
 
 **Link to work:**
 [Expandable Q&A Project](Projects/faq-page/)
+
+### Day 39: Friday, March 11, 2022
+
+**Today's Progress:**
+Continued practicing with the FAQ page feature
+
+**Thoughts:**
+Enjoying these videos and practice problems.
+
+**Link to work:**
+[Expandable Q&A Project](Projects/faq-page/)
