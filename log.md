@@ -468,12 +468,23 @@ Experimenting with VH Card project
 Lots of ideas and thoughts. Great practice/experimental project.
 
 **Link to work:**
-n/a
+[VH Cards Repo](https://github.com/emilyebrooks/vh-cards)
 
 ### Day 40: Monday, March 14, 2022
 
 **Today's Progress:**
 Continued practicing with the FAQ page feature
+
+**Thoughts:**
+Enjoying these videos and practice problems.
+
+**Link to work:**
+[Expandable Q&A Project](Projects/faq-page/)
+
+### Day 41: Tuesday, March 15, 2022
+
+**Today's Progress:**
+Continued practicing with the FAQ page feature. Started working on Brooks FAQ page.
 
 **Thoughts:**
 Enjoying these videos and practice problems.
