@@ -491,3 +491,14 @@ Enjoying these videos and practice problems.
 
 **Link to work:**
 [Expandable Q&A Project](Projects/faq-page/)
+
+### Day 42: Wednesday, March 16, 2022
+
+**Today's Progress:**
+Copied over "starter files" from Brooks Psychotherapy website to serve as practice project for building out my own expand and collapse Q&A page.
+
+**Thoughts:**
+Lots to do! Reworking HTML, add JS and reformatt CSS, but I love this process! Eventually I will use this to update the clients website, too. Will be easier to read and more engaging and clean looking. Excited!
+
+**Link to work:**
+[Expandable Q&A Project](Projects/faq-page/)
