@@ -1,0 +1,798 @@
+/* 
+COLORS: 
+navy blue: #002642
+teal blue: #375F6C
+light blue: #CEDDF2
+white: #FFFFFF 
+
+FONTS:
+font-family: "montserrat", sans-serif;
+font-family: "spartan", sans-serif;
+font-family: "marcellus", serif;
+
+/* GENERAL */
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  font-family: "montserrat", sans-serif;
+  font-weight: 300;
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+
+/* Decreases size of MA and LLP on Hero Title */
+h1 span {
+  font-size: 1.5rem;
+}
+
+h2 {
+  color: white;
+  background-color: #002642;
+  margin: auto;
+  width: 50%;
+  padding: 15px;
+  text-align: center;
+  font-family: "spartan", sans-serif;
+  font-weight: lighter;
+  font-size: 1.75rem;
+}
+
+h3 {
+  font-family: "montserrat", sans-serif;
+  font-weight: lighter;
+  font-size: 1.5rem;
+}
+
+h4 {
+  color: #002642;
+  text-align: center;
+  font-family: "marcellus", serif;
+  font-size: 1.75rem;
+  font-weight: lighter;
+  margin-bottom: 20px;
+}
+
+h5 {
+  color: #002642;
+  text-align: center;
+  font-family: "marcellus", serif;
+  font-size: 1.2rem;
+  font-weight: lighter;
+}
+
+h6 {
+  color: #002642;
+  /* text-align: left; */
+  font-family: "marcellus", serif;
+  font-size: 1.15rem;
+  font-weight: lighter;
+}
+
+.email-button,
+.read-more-button {
+  color: white;
+  background-color: #375f6c;
+  padding: 10px;
+  font-family: "marcellus", serif;
+  font-size: 0.9rem;
+  border: none;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.page-text p {
+  color: #002642;
+  font-family: "marcellus", serif;
+  font-size: 0.9rem;
+  text-align: left;
+  width: 90%;
+  margin: auto;
+  padding: 1rem;
+  line-height: 2rem;
+}
+
+/* Italicize two words in Cancer Page text for emphasis */
+p span {
+  font-style: italic;
+}
+
+/**** HEADER ************************************************************/
+header {
+  background-color: #eaf0f8;
+  padding-top: 15px;
+}
+
+figure {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+figure img {
+  width: 100%;
+  margin: auto;
+}
+
+/*Email button in header on <768 screens */
+header .email-button {
+  float: right;
+  margin-top: 20px;
+  margin-right: 4rem;
+}
+
+/**** HAMBURGER NAVIGATION MENU ************************************************************/
+.mobile-container {
+  margin-top: -2.75em;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #eaf0f8;
+  padding: 10px;
+}
+
+/* Hide the links inside the navigation menu until click*/
+.topnav #myLinks {
+  display: none;
+}
+
+/* Style navigation menu links */
+.topnav a {
+  color: #002642;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size: 0.75rem;
+  font-family: "spartan", sans-serif;
+  text-align: center;
+  display: block;
+}
+
+/* Style the hamburger menu */
+.topnav a.icon {
+  background: #eaf0f8;
+  display: block;
+  font-size: 1.35rem;
+  top: 0;
+}
+
+/* Style the active links */
+.active {
+  background-color: #eaf0f8;
+  color: #002642;
+}
+
+/* STANDARD NAVIGATION MENU *************************************************************/
+header nav {
+  text-align: center;
+  font-size: 0.9rem;
+  padding: 20px;
+}
+
+header nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+header nav li {
+  display: inline;
+  padding: 3%;
+}
+
+header li a {
+  font-family: "spartan", sans-serif;
+  color: #002642;
+  text-align: right;
+  text-decoration: none;
+}
+
+header li a:hover {
+  text-decoration: solid underline #002642 1px;
+}
+
+/* HOME PAGE - HERO IMAGE AND TEXT************************************************************/
+#title-hero {
+  background-image: url("../img/brooks-hero@2x.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center top;
+  width: 100%;
+  height: 450px; /*370*/
+}
+
+.title-text {
+  padding-top: 225px;
+  text-align: center;
+  color: white;
+  /* Add styling here to align text to bottom of image */
+}
+
+.title-text h3 {
+  margin: 12.33px 0;
+  padding-bottom: 20px;
+}
+
+.telehealth h5 {
+  width: 60%;
+  background-color: #eaf0f8;
+  border: 3px double #002642;
+  margin: 40px auto 50px auto;
+  padding: 20px 10px;
+}
+
+/* HOME PAGE - WELCOME ************************************************************/
+.welcome p {
+  color: #002642;
+  font-family: "marcellus", serif;
+  width: 85%;
+  margin: auto;
+  font-size: 1rem;
+}
+
+.intro-text {
+  padding-bottom: 40px;
+}
+
+.specialties h2 {
+  width: 50%;
+  margin: auto;
+  font-size: 1rem;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.specialties li {
+  color: #002642;
+  font-family: "marcellus", serif;
+  margin-left: 25%;
+  font-size: 1rem;
+}
+
+.specialties li:hover {
+  /*blue line appears under word when hovered over*/
+  text-decoration: solid underline #002642 1px;
+}
+
+.specialties {
+  padding-bottom: 20px;
+}
+
+.cancer-counseling h2 {
+  width: 75%;
+  margin: auto;
+  text-align: center;
+  padding: 25px 0;
+}
+
+.cancer-counseling p {
+  width: 65%;
+  margin: auto;
+  padding: 15px;
+  color: #002642;
+  font-family: "marcellus", serif;
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 2em;
+}
+
+/* THIS WAS FOR THE DISTRESS QUOTE.  CURRENTLY REMOVED.  DELETE IF WE DO NOT ADD BACK
+ .cancer-counseling span {
+  display: inline-block;
+  font-style: italic;
+  padding: 1.2rem 0.75rem 0 0.75rem;
+  font-size: 0.75em; /*keep as em to shrink relative to p text 
+} */
+
+.cancer {
+  text-align: center;
+  margin: auto;
+  margin-top: 25px;
+}
+
+/* HOME PAGE - ABOUT RYAN ************************************************************/
+.about-ryan {
+  margin-top: 50px;
+}
+
+.wall-small {
+  width: 100%;
+  height: 275px;
+  background-image: url("../img/brooks-wall-mobile.jpg");
+  /* background-position: center; */
+  background-size: 100%; /* cover */
+  background-repeat: no-repeat;
+}
+
+.wall-too {
+  padding-top: 20px;
+  box-sizing: border-box;
+}
+
+.wall-too p {
+  width: 75%;
+  /* height: 40%; */
+  background-color: #eaf0f8;
+  margin: auto;
+  color: #002642;
+  font-size: 1rem;
+  font-family: "marcellus", serif;
+  padding: 15px;
+  line-height: 2em;
+  border: 3px double #002642;
+}
+
+/* HOME PAGE - CONTACT ************************************************************/
+#contact {
+  background-color: #eaf0f8;
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 5px;
+}
+
+.contact-info {
+  background-color: #eaf0f8;
+  text-align: center;
+}
+
+#contact h4 {
+  margin-bottom: 2.5rem;
+}
+
+#contact .email-button {
+  padding: 0.75em;
+  font-size: 1.15em;
+}
+
+.contact-info h5 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.contact-info {
+  font-family: "spartan", sans-serif;
+  color: #002642;
+  padding: 20px;
+}
+
+.contact-info a {
+  color: #002642;
+  text-decoration: none;
+}
+
+.contact-info a:hover {
+  text-decoration: solid underline #002642 1px;
+}
+
+.contact-info p {
+  line-height: 1.75em;
+}
+
+.insurance h5 {
+  margin-bottom: 0;
+}
+
+.insurance p {
+  margin-top: 1%;
+  line-height: 2.25em;
+}
+
+.insurance-list {
+  padding-bottom: 2em;
+}
+
+#social {
+  padding: 25px;
+}
+
+#reserved {
+  padding-top: 3em;
+  text-align: center;
+}
+
+#reserved p {
+  color: #002642;
+  font-family: "marcellus", serif;
+  font-size: 0.75rem;
+}
+
+/* social icons */
+.fab {
+  width: 60px;
+  font-size: 2.25rem;
+  color: #375f6c;
+}
+
+footer {
+  padding: 50px 0;
+  background-color: #eaf0f8;
+}
+
+.badges {
+  display: flex;
+  justify-content: space-around;
+}
+
+/* ABOUT PAGE *****************************************************/
+
+/* CENTERING PHOTO WHILE QUOTE IS REMOVED */
+.one-column img {
+  display: block;
+  margin: auto;
+  margin-bottom: 1rem;
+  width: 45%;
+}
+
+/* REMOVING QUOTE FOR NOW
+#quote h3 {
+  font-family: "Poiret One", cursive;
+  color: #375f6c;
+  width: 70%;
+  text-align: center;
+  padding: 0.5em;
+  background-color: #eaf0f8;
+  border: 3px double #002642;
+  margin: 40px auto 10px auto;
+}  */
+
+/* Hide the contact email link on mobile screens */
+@media screen and (min-width: 768px) {
+  /* .pages-cta {
+    display: none;
+  } */
+
+  .about-header {
+    /* display: flex; USE WITH QUOTE */
+    margin-bottom: 2rem;
+  }
+
+  /* Floating Photo on left and text on right without quote */
+  .one-column img {
+    margin: 1.5rem 1.5rem 0.5rem 10%;
+    float: left;
+    width: 40%;
+  }
+
+  /* FOR QUOTE TO BE SIDE BY SIDE WITH PHOTO 
+  .one-column {
+    width: 50%;
+  } */
+
+  /* Quote removed for now
+  #quote h3 {
+    display: block;
+    margin: auto;
+  } */
+}
+
+/* SPECIALTIES PAGE *****************************************************/
+/* NONE FOR NOW */
+
+/* CANCER PAGE *****************************************************/
+#cancer-page h2 {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+.distress {
+  display: inline-block;
+  font-style: italic;
+  padding: 1.2rem 0.75rem 0 0.75rem;
+  font-size: 0.75rem; /*keep as em to shrink relative to p text */
+}
+
+.cancer-contact {
+  width: 60%;
+  background-color: #eaf0f8;
+  border: 3px double #002642;
+  margin: 40px auto 50px auto;
+  padding: 20px 20px;
+  text-align: center;
+}
+
+.cancer-contact h5 {
+  margin: 5px auto 40px auto;
+}
+
+/* CONTACT PAGE *****************************************************/
+
+#contact-introduction p {
+  color: #002642;
+  font-family: "Marcellus", serif;
+  text-align: center;
+  margin: auto;
+  width: 75%;
+  line-height: 2em;
+}
+
+#contact-form {
+  border: 3px double #002642;
+  margin: 2rem;
+  background-color: #eaf0f8;
+}
+
+#fs-frm {
+  font-family: "spartan", sans-serif;
+  text-align: center;
+  /* display: block; */
+}
+
+#fs-frm-inputs {
+  font-family: "spartan", sans-serif;
+  font-size: 0.9rem;
+  border: none;
+  margin-top: 2rem;
+  display: block;
+}
+
+input,
+textarea {
+  border: solid #002642 1px;
+  display: block;
+  margin: 0 auto 1rem auto;
+  width: 90%;
+  height: 2rem;
+}
+
+textarea {
+  height: 10rem;
+  padding-top: 10px;
+}
+
+label {
+  display: none;
+}
+
+#submit-button {
+  width: 10rem;
+  height: 2.5rem;
+  color: white;
+  font-size: 1rem;
+  background-color: #375f6c;
+  padding: 10px;
+  font-family: "marcellus", serif;
+  border: none;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+#office-images {
+  padding-top: 30px;
+  text-align: center;
+  background-color: #eaf0f8;
+}
+
+#office img {
+  margin-top: 2rem;
+}
+
+/* FAQs PAGE *****************************************************/
+#faq h6 {
+  width: 90%;
+  margin: auto;
+  padding-top: 1rem;
+  /* font-weight: bold; */
+}
+
+#faq p {
+  width: 80%;
+  /* margin: auto; */
+}
+
+/*Formats the bullet points on FAQ page */
+h6 span {
+  color: #002642;
+  font-size: 1.25rem;
+}
+
+/* BREAKPOINTS  BREAKPOINTS  BREAKPOINTS  BREAKPOINTS */
+
+/* MOBILE BREAKPOINTS - HOME PAGE *****************************************************
+/* Preventing too much white space between wall image and wall text in smaller screens */
+@media screen and (max-width: 330px) {
+  .wall-small {
+    max-height: 195px;
+  }
+  .wall-too {
+    padding-top: 0;
+  }
+}
+
+/* Prevent hero text and email button from moving too far down the screen when smaller than 362 */
+@media screen and (max-width: 400px) {
+  .title-text h1 {
+    font-size: 1.6em;
+  }
+
+  .title-text h3 {
+    font-size: 1.25em;
+  }
+
+  footer {
+    padding: 25px 0;
+  }
+
+  /*To keep badges in block formation so they don't overlap on small screens*/
+  .badges {
+    display: block;
+    text-align: center;
+  }
+
+  .badges img {
+    padding: 20px;
+  }
+  .badges a {
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .wall-small {
+    max-height: 210px;
+  }
+}
+
+/* Hide the main nav menu & header contact email link on mobile screens */
+@media screen and (max-width: 767px) {
+  header .email-button {
+    display: none;
+  }
+  header nav {
+    display: none;
+  }
+}
+/* TABLET BREAKPOINTS - HOME PAGE **************************************/
+@media screen and (min-width: 768px) {
+  .mobile-container {
+    display: none;
+  }
+
+  header figure {
+    width: 75%;
+  }
+
+  figure img {
+    width: 100%;
+    margin-left: 20px;
+  }
+
+  header nav {
+    text-align: right;
+    font-size: 0.9rem;
+    padding: 40px 20px 20px 20px;
+  }
+  .title-text {
+    padding-top: 350px;
+  }
+
+  #title-hero {
+    background-image: url("../img/brooks-hero@2x.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    width: 100%;
+    height: 640px;
+  }
+  .half-width {
+    width: 48%;
+    display: inline-block;
+    margin: auto;
+  }
+
+  .intro-text {
+    padding-bottom: 60px;
+    margin-left: 35%;
+  }
+
+  .intro-text p {
+    width: 95%;
+    line-height: 1.5rem;
+  }
+
+  .specialties h2 {
+    width: 42%;
+    margin: 0 25%;
+  }
+
+  .wall {
+    width: 100%;
+    height: 275px;
+    background-image: url("../img/brooks-wall-desktop@2x.jpg");
+    background-size: 100%; /* cover */
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: flex-end;
+    align-items: stretch;
+  }
+
+  .wall-small {
+    display: none;
+  }
+
+  .wall-too {
+    width: 45%;
+    margin-top: 3%;
+    margin-right: 2rem;
+    padding: 2px;
+  }
+
+  .wall-too p {
+    width: 95%;
+    border: 3px double #002642;
+    font-size: 1rem;
+    padding: 10px;
+  }
+
+  #contact {
+    margin-top: 0;
+  }
+
+  #contact-form {
+    width: 75%;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+}
+
+@media screen and (min-width: 875px) {
+  .wall {
+    min-height: 300px;
+  }
+
+  .wall-too {
+    width: 40%;
+    margin-top: 5%;
+    margin-right: 3rem;
+  }
+}
+/* DESKTOP BREAKPOINTS *****************************************************/
+
+@media screen and (min-width: 1060px) {
+  html {
+    font-size: 20px;
+  }
+
+  .title-text {
+    padding-top: 375px;
+  }
+
+  #title-hero {
+    width: 100%;
+    height: 740px;
+  }
+
+  h1 {
+    font-size: 2.25rem;
+  }
+
+  .wall-too {
+    margin-top: 3%;
+  }
+
+  .wall-too p {
+    font-size: 0.9rem;
+  }
+
+  .one-column img {
+    width: 35%;
+  }
+}
+
+/* Old Code - Delete if not needed anymore */
+/* .pages-cta {
+  background-color: #eaf0f8;
+  /* background-size: 100%; 
+  text-align: center;
+}
+
+.pages-cta p {
+  margin: 0;
+  height: 50%;
+  padding-top: 3%;
+  padding-bottom: 5%;
+} */

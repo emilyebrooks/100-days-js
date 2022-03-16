@@ -234,12 +234,12 @@ Questions
   margin-bottom: 0;
 }
 
-/* hide the answer text by default */
+/* Hide the answer text by default */
 .answer {
   display: none;
 }
 
-/*Upon click, add .show-text, answer displays in block form */
+/* Upon click, add .show-text, answer displays in block form */
 .show-text .answer {
   display: block;
 }
@@ -249,12 +249,12 @@ Questions
   display: none;
 }
 
-/*Upon click, add .show-text, minus icon appears */
+/* Upon click, add .show-text, minus icon appears */
 .show-text .minus-icon {
   display: inline;
 }
 
-/*Upon click, add .show-text, plus icon disappears */
+/* Upon click, add .show-text, plus icon disappears */
 .show-text .plus-icon {
   display: none;
 }
