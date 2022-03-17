@@ -501,4 +501,15 @@ Copied over "starter files" from Brooks Psychotherapy website to serve as practi
 Lots to do! Reworking HTML, add JS and reformatt CSS, but I love this process! Eventually I will use this to update the clients website, too. Will be easier to read and more engaging and clean looking. Excited!
 
 **Link to work:**
-[Expandable Q&A Project](Projects/faq-page/)
+[Expandable FAQ Page Practice Project](Projects/bp-faqpage/)
+
+### Day 43: Thursday, March 17, 2022
+
+**Today's Progress:**
+Mostly worked on setting up the FAQ page HTML and CSS files so I can apply JS to different elements.
+
+**Thoughts:**
+Didn't get to much JS today! Might have been easier to start with a blank project rather than adapting the Brooks FAQ page, but I'm making it work now. More JS to come tomorrow! And this will be great for updating the BP page when I am done.
+
+**Link to work:**
+[Expandable FAQ Page Practice Project](Projects/bp-faqpage/)
