@@ -194,6 +194,7 @@ Questions
   max-width: var(--fixed-width);
 }
 .question {
+  //Container for Q, buttons and A
   background: var(--clr-white);
   border-radius: var(--radius);
   box-shadow: var(--light-shadow);
@@ -201,6 +202,7 @@ Questions
   margin-bottom: 2rem;
 }
 .question-title {
+  //Container for Q and buttons
   display: flex;
   justify-content: space-between;
   align-items: center;
