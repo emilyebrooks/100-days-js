@@ -157,6 +157,7 @@ header li a:hover {
 .qa-container {
   width: 80%;
   margin: auto;
+  box-shadow: 2px 2px 5px #375f6c;
 }
 
 .qa-single {
@@ -195,6 +196,20 @@ header li a:hover {
 .close-icon, .answer {
   display: none;
 }
+
+.show-answer .open-icon {
+  display: none; 
+}
+
+.show-answer .close-icon {
+  display: block;
+}
+
+.show-answer .answer {
+  display: block; 
+}
+
+
 
 
 /* BREAKPOINTS  BREAKPOINTS  BREAKPOINTS  BREAKPOINTS */
