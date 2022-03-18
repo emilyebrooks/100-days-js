@@ -17,6 +17,7 @@ html {
 
 body {
   margin: 0;
+  background-color: #eaf0f8;
 }
 
 h1 {
@@ -69,18 +70,6 @@ h6 {
   font-weight: lighter;
 }
 
-.email-button,
-.read-more-button {
-  color: white;
-  background-color: #375f6c;
-  padding: 10px;
-  font-family: "marcellus", serif;
-  font-size: 0.9rem;
-  border: none;
-  border-radius: 10px;
-  text-decoration: none;
-}
-
 .page-text p {
   color: #002642;
   font-family: "marcellus", serif;
@@ -95,39 +84,18 @@ h6 {
 /**** HEADER ************************************************************/
 header {
   background-color: #eaf0f8;
-  padding-top: 15px;
-}
-
-figure {
-  margin-right: 20px;
-  margin-left: 20px;
-}
-
-figure img {
-  width: 100%;
-  margin: auto;
-}
-
-/*Email button in header on <768 screens */
-header .email-button {
-  float: right;
-  margin-top: 20px;
-  margin-right: 4rem;
+  padding-top: 35px;
 }
 
 /**** HAMBURGER NAVIGATION MENU ************************************************************/
-.mobile-container {
-  margin-top: -2.75em;
-}
-
 .topnav {
   overflow: hidden;
   background-color: #eaf0f8;
   padding: 10px;
 }
 
-/* Hide the links inside the navigation menu until click*/
-.topnav #myLinks {
+/* Hide links inside the navigation menu until click*/
+.topnav #nav-links {
   display: none;
 }
 
@@ -185,32 +153,20 @@ header li a:hover {
   text-decoration: solid underline #002642 1px;
 }
 
-/* social icons */
-.fab {
-  width: 60px;
-  font-size: 2.25rem;
-  color: #375f6c;
-}
-
-footer {
-  padding: 50px 0;
-  background-color: #eaf0f8;
-}
-
-/*Formats the bullet points on FAQ page */
-h6 span {
-  color: #002642;
-  font-size: 1.25rem;
-}
-
+/* Q&A FORMATTING ************************************************************ */
 .qa-container {
   width: 80%;
   margin: auto;
 }
 
+.qa-single {
+  background-color: white; 
+  /* border-radius: ; */
+  margin-bottom: 20px; 
+}
+
 .question {
   display: flex;
-  justify-content: space-between;
 }
 
 .question p {
@@ -218,7 +174,7 @@ h6 span {
 }
 
 .qa-button {
-  font-size: 2em;
+  font-size: 1.25em;
   color: #375f6c;
   background-color: white;
   border: none;
@@ -231,58 +187,22 @@ h6 span {
   cursor: grab;
 }
 
+.answer {
+  border-top: 1px solid rgb(55, 95, 108, 0.3);
+}
+
+/* Hide close icon and answer by default  */
+.close-icon, .answer {
+  display: none;
+}
+
+
 /* BREAKPOINTS  BREAKPOINTS  BREAKPOINTS  BREAKPOINTS */
 
-/* MOBILE BREAKPOINTS - HOME PAGE *****************************************************
-/* Preventing too much white space between wall image and wall text in smaller screens */
-@media screen and (max-width: 330px) {
-  .wall-small {
-    max-height: 195px;
-  }
-  .wall-too {
-    padding-top: 0;
-  }
-}
+/* MOBILE BREAKPOINTS - HOME PAGE *****************************************************/
 
-/* Prevent hero text and email button from moving too far down the screen when smaller than 362 */
-@media screen and (max-width: 400px) {
-  .title-text h1 {
-    font-size: 1.6em;
-  }
-
-  .title-text h3 {
-    font-size: 1.25em;
-  }
-
-  footer {
-    padding: 25px 0;
-  }
-
-  /*To keep badges in block formation so they don't overlap on small screens*/
-  .badges {
-    display: block;
-    text-align: center;
-  }
-
-  .badges img {
-    padding: 20px;
-  }
-  .badges a {
-    margin: auto;
-  }
-}
-
-@media screen and (max-width: 450px) {
-  .wall-small {
-    max-height: 210px;
-  }
-}
-
-/* Hide the main nav menu & header contact email link on mobile screens */
+/* Hide the main nav menu on mobile screens */
 @media screen and (max-width: 767px) {
-  header .email-button {
-    display: none;
-  }
   header nav {
     display: none;
   }
@@ -291,15 +211,6 @@ h6 span {
 @media screen and (min-width: 768px) {
   .mobile-container {
     display: none;
-  }
-
-  header figure {
-    width: 75%;
-  }
-
-  figure img {
-    width: 100%;
-    margin-left: 20px;
   }
 
   header nav {
@@ -311,87 +222,6 @@ h6 span {
     padding-top: 350px;
   }
 
-  #title-hero {
-    background-image: url("../img/brooks-hero@2x.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center top;
-    width: 100%;
-    height: 640px;
-  }
-  .half-width {
-    width: 48%;
-    display: inline-block;
-    margin: auto;
-  }
-
-  .intro-text {
-    padding-bottom: 60px;
-    margin-left: 35%;
-  }
-
-  .intro-text p {
-    width: 95%;
-    line-height: 1.5rem;
-  }
-
-  .specialties h2 {
-    width: 42%;
-    margin: 0 25%;
-  }
-
-  .wall {
-    width: 100%;
-    height: 275px;
-    background-image: url("../img/brooks-wall-desktop@2x.jpg");
-    background-size: 100%; /* cover */
-    background-repeat: no-repeat;
-    display: flex;
-    justify-content: flex-end;
-    align-items: stretch;
-  }
-
-  .wall-small {
-    display: none;
-  }
-
-  .wall-too {
-    width: 45%;
-    margin-top: 3%;
-    margin-right: 2rem;
-    padding: 2px;
-  }
-
-  .wall-too p {
-    width: 95%;
-    border: 3px double #002642;
-    font-size: 1rem;
-    padding: 10px;
-  }
-
-  #contact {
-    margin-top: 0;
-  }
-
-  #contact-form {
-    width: 75%;
-    margin: auto;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-  }
-}
-
-@media screen and (min-width: 875px) {
-  .wall {
-    min-height: 300px;
-  }
-
-  .wall-too {
-    width: 40%;
-    margin-top: 5%;
-    margin-right: 3rem;
-  }
-}
 /* DESKTOP BREAKPOINTS *****************************************************/
 
 @media screen and (min-width: 1060px) {
@@ -399,42 +229,6 @@ h6 span {
     font-size: 20px;
   }
 
-  .title-text {
-    padding-top: 375px;
-  }
-
-  #title-hero {
-    width: 100%;
-    height: 740px;
-  }
-
   h1 {
     font-size: 2.25rem;
   }
-
-  .wall-too {
-    margin-top: 3%;
-  }
-
-  .wall-too p {
-    font-size: 0.9rem;
-  }
-
-  .one-column img {
-    width: 35%;
-  }
-}
-
-/* Old Code - Delete if not needed anymore */
-/* .pages-cta {
-  background-color: #eaf0f8;
-  /* background-size: 100%; 
-  text-align: center;
-}
-
-.pages-cta p {
-  margin: 0;
-  height: 50%;
-  padding-top: 3%;
-  padding-bottom: 5%;
-} */
