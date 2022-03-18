@@ -513,3 +513,14 @@ Didn't get to much JS today! Might have been easier to start with a blank projec
 
 **Link to work:**
 [Expandable FAQ Page Practice Project](Projects/bp-faqpage/)
+
+### Day 44: Friday, March 18, 2022
+
+**Today's Progress:**
+Continued formatting HTML and CSS to create the expandable Q & A's
+
+**Thoughts:**
+Love! I am enjoying working on a project where I get to do HTML, CSS and JavaScript all at the same time. Currently I am formatting the HTMl and CSS so I have the elements in place to start applying JS. I decided to clean out all of the non-relevant parts from the "starter-code" I used from the Brooks website, so it's much more focused now.
+
+**Link to work:**
+[Expandable FAQ Page Practice Project](Projects/bp-faqpage/)
