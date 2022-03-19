@@ -179,8 +179,7 @@ header li a:hover {
   color: #375f6c;
   background-color: white;
   border: none;
-  border-radius: 20%;
-  margin: 0.5em;
+  margin: 1.5em;
 }
 
 .qa-button:hover {
