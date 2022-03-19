@@ -524,3 +524,14 @@ Love! I am enjoying working on a project where I get to do HTML, CSS and JavaScr
 
 **Link to work:**
 [Expandable FAQ Page Practice Project](Projects/bp-faqpage/)
+
+### Day 45: Saturday, March 19, 2022
+
+**Today's Progress:**
+Continued formatting HTML and CSS to create the expandable Q & A's
+
+**Thoughts:**
+Pretty simple, actually. The JS is minimal. Took me more time to reformat the existing HTML and CSS from the Brooks website. I'm going to restyle this and turn it into an About Emily Q&A project for my portfolio. But then also use this to update the FAQ page on the Brooks website.
+
+**Link to work:**
+[Expandable FAQ Page Practice Project](Projects/bp-faqpage/)
