@@ -535,3 +535,14 @@ Pretty simple, actually. The JS is minimal. Took me more time to reformat the ex
 
 **Link to work:**
 [Expandable FAQ Page Practice Project](Projects/bp-faqpage/)
+
+### Day 46: Monday, March 21, 2022
+
+**Today's Progress:**
+Started new project - scroll page and sticky nav bar features.
+
+**Thoughts:**
+Started with just watching the video. This projects builds out more features and includes more HTML, so starting by watching and then will start coding alongside.
+
+**Link to work:**
+[Sticky Nav Bar and Scroll Feature](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=12765s)
