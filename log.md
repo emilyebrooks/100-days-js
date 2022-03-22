@@ -546,3 +546,14 @@ Started with just watching the video. This projects builds out more features and
 
 **Link to work:**
 [Sticky Nav Bar and Scroll Feature](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=12765s)
+
+### Day 47: Tuesday, March 22, 2022
+
+**Today's Progress:**
+Cleaned up JS on Brooks website.
+
+**Thoughts:**
+Practicing elements from the scroll project I started yesterday on a branch in the Brooks project. I think these will be good features for updating the website.
+
+**Link to work:**
+[Sticky Nav Bar and Scroll Feature](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=12765s)
