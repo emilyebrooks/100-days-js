@@ -557,3 +557,14 @@ Practicing elements from the scroll project I started yesterday on a branch in t
 
 **Link to work:**
 [Sticky Nav Bar and Scroll Feature](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=12765s)
+
+### Day 48: Wednesday, March 23, 2022
+
+**Today's Progress:**
+Added Date() to Brooks footer. Started on scroll to top button.
+
+**Thoughts:**
+Watching video and then implementing practice.
+
+**Link to work:**
+[Sticky Nav Bar and Scroll Feature](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=12765s)
