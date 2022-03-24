@@ -568,3 +568,14 @@ Watching video and then implementing practice.
 
 **Link to work:**
 [Sticky Nav Bar and Scroll Feature](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=12765s)
+
+### Day 49: Thursday, March 24, 2022
+
+**Today's Progress:**
+Cleaned up JS code on Brooks Psychotherapy Website, updated on all pages.
+
+**Thoughts:**
+These were small changes, but good for me to be cleaning up older code that wasn't as clean or efficient. I fixed the hamburger menu so the bars stay at the top when menu is clicked. I also used JS to update the year/date in the footer automatically. I have a lot of ideas for this project, so I wanted to clean these code items up first before starting to add the expandable Q&A FAQ page feature and the sticky nav bar feature.
+
+**Link to work:**
+[Brooks Psychotherapy Repo](https://github.com/emilyebrooks/brooks-psychotherapy)
