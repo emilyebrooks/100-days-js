@@ -579,3 +579,14 @@ These were small changes, but good for me to be cleaning up older code that wasn
 
 **Link to work:**
 [Brooks Psychotherapy Repo](https://github.com/emilyebrooks/brooks-psychotherapy)
+
+### Day 50: Friday, March 25, 2022
+
+**Today's Progress:**
+Finalized the expand and collapse menu for Brooks website. Also, started my own project files to do a Q&A feature on my own portfolio site.
+
+**Thoughts:**
+Pushed changes to staging site. Waiting for client approval. Looks so good! I love this feature. It's funny how easy this is. The JS portion is the most straight forward, whereas the HTML and CSS required more effort than the JS code piece. Really enjoyable.
+
+**Link to work:**
+[Brooks Psychotherapy Repo](https://github.com/emilyebrooks/brooks-psychotherapy)
