@@ -590,3 +590,14 @@ Pushed changes to staging site. Waiting for client approval. Looks so good! I lo
 
 **Link to work:**
 [Brooks Psychotherapy Repo](https://github.com/emilyebrooks/brooks-psychotherapy)
+
+### Day 51: Monday, March 28, 2022
+
+**Today's Progress:**
+Working on a "More About Emily" feature for my portfolio using the Expand & Collapse functionality
+
+**Thoughts:**
+Starting files from scratch and working from memory for practice. I plan to add a clickable button that will expand to reveal the bonus Q&A section within the About Section on my portfolio. coming along nicely. It's great practice for all JS, HTML and CSS and I love building things from scratch!
+
+**Link to work:**
+Coming Soon
