@@ -601,3 +601,14 @@ Starting files from scratch and working from memory for practice. I plan to add 
 
 **Link to work:**
 Coming Soon
+
+### Day 52: Tuesday, March 29, 2022
+
+**Today's Progress:**
+Spent more time working on the "More About Emily" feature for my portfolio.
+
+**Thoughts:**
+It's incredible how addictive it is to build something just for fun - I keep playing around with different possibilities in formatting or changes on click. It's so fun!
+
+**Link to work:**
+Coming Soon
