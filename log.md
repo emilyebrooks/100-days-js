@@ -612,3 +612,14 @@ It's incredible how addictive it is to build something just for fun - I keep pla
 
 **Link to work:**
 Coming Soon
+
+### Day 53: Friday, April 1, 2022
+
+**Today's Progress:**
+Spent more time working on the "More About Emily" feature for my portfolio.
+
+**Thoughts:**
+Started to add questions. Tweaking JS functionality as I add a few more layers of reveal.
+
+**Link to work:**
+Coming Soon
