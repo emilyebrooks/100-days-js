@@ -623,3 +623,14 @@ Started to add questions. Tweaking JS functionality as I add a few more layers o
 
 **Link to work:**
 Coming Soon
+
+### Day 54: Saturday, April 2, 2022
+
+**Today's Progress:**
+Reviewing API's
+
+**Thoughts:**
+I understand fetch(). I need more practice working the results into the DOM.
+
+**Link to work:**
+[Practicing fetch()](Practice/fetch)
