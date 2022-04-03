@@ -634,3 +634,14 @@ I understand fetch(). I need more practice working the results into the DOM.
 
 **Link to work:**
 [Practicing fetch()](Practice/fetch)
+
+### Day 55: Sunday, April 3, 2022
+
+**Today's Progress:**
+Practicing API's and displaying images in HTML
+
+**Thoughts:**
+I got a cat image to appear, but it's not randomizing. Hmmm?
+
+**Link to work:**
+[Practicing fetch()](Practice/fetch)
