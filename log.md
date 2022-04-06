@@ -645,3 +645,14 @@ I got a cat image to appear, but it's not randomizing. Hmmm?
 
 **Link to work:**
 [Practicing fetch()](Practice/fetch)
+
+### Day 56: Wednesday, April 6, 2022
+
+**Today's Progress:**
+Got back to work building out my Q&A feature for my portfolio site. Working on individual question drop downs.
+
+**Thoughts:**
+Took a few days off from this project to work on a few job assessment projects.
+
+**Link to work:**
+Coming soon.
