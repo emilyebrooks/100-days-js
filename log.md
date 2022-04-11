@@ -656,3 +656,16 @@ Took a few days off from this project to work on a few job assessment projects.
 
 **Link to work:**
 Coming soon.
+
+### Day 57: Monday, April 11, 2022
+
+**Today's Progress:**
+Finished buildng the Q&A with Emily template. Will move it into a branch on my portfolio site next.
+
+**Thoughts:**
+I troubleshooted a few issues with getting the answer to appear on click, but made it work. I like it! Need to fill in some more questions and then create a branch on my portfolio to build it in as a feature element.
+
+Took 5 days off from JS project as I was working on some assessments and interview prep. Had to balance something! But feels good to be "back"! :)
+
+**Link to work:**
+Coming soon.
