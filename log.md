@@ -669,3 +669,14 @@ Took 5 days off from JS project as I was working on some assessments and intervi
 
 **Link to work:**
 Coming soon.
+
+### Day 58: Tuesday, April 12, 2022
+
+**Today's Progress:**
+Started branch on portfolio project to build in Q&A feature
+
+**Thoughts:**
+Working on style and responsiveness elements.
+
+**Link to work:**
+Coming soon.
