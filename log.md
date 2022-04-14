@@ -680,3 +680,14 @@ Working on style and responsiveness elements.
 
 **Link to work:**
 Coming soon.
+
+### Day 59: Wednesday, April 13, 2022
+
+**Today's Progress:**
+Worked on formatting to make styles consistent with existing CSS.
+
+**Thoughts:**
+I like it!
+
+**Link to work:**
+Coming soon.
