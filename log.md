@@ -691,3 +691,14 @@ I like it!
 
 **Link to work:**
 Coming soon.
+
+### Day 60: Thursday, April 14, 2022
+
+**Today's Progress:**
+Merged Q&A branch into main branch. Added a few questions and started editing text to finalize Q&A's.
+
+**Thoughts:**
+I am happy with how this is turning out. It's interactive, but totally optional. It doesn't take up too much space, unless someone chooses to engage with it.
+
+**Link to work:**
+[Emily Brooks Portfolio Repo](https://github.com/emilyebrooks/emily-brooks-portfolio)
