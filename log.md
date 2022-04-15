@@ -702,3 +702,14 @@ I am happy with how this is turning out. It's interactive, but totally optional.
 
 **Link to work:**
 [Emily Brooks Portfolio Repo](https://github.com/emilyebrooks/emily-brooks-portfolio)
+
+### Day 61: Friday, April 15, 2022
+
+**Today's Progress:**
+Filling in more questions in the Q&A.
+
+**Thoughts:**
+I want at least 2 more questions to round this out. Then, I'll push changes to live site.
+
+**Link to work:**
+[Emily Brooks Portfolio Repo](https://github.com/emilyebrooks/emily-brooks-portfolio)
