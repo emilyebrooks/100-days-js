@@ -713,3 +713,14 @@ I want at least 2 more questions to round this out. Then, I'll push changes to l
 
 **Link to work:**
 [Emily Brooks Portfolio Repo](https://github.com/emilyebrooks/emily-brooks-portfolio)
+
+### Day 62: Monday, April 16, 2022
+
+**Today's Progress:**
+Finished my Q&A feature on my portfolio and uploaded to live site.
+
+**Thoughts:**
+I really like this feature and I think it adds some flare and personality to my site!
+
+**Link to work:**
+[Emily Brooks Portfolio](https://emilybrooksportfolio.com/)
