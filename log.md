@@ -714,7 +714,7 @@ I want at least 2 more questions to round this out. Then, I'll push changes to l
 **Link to work:**
 [Emily Brooks Portfolio Repo](https://github.com/emilyebrooks/emily-brooks-portfolio)
 
-### Day 62: Monday, April 16, 2022
+### Day 62: Monday, April 18, 2022
 
 **Today's Progress:**
 Finished my Q&A feature on my portfolio and uploaded to live site.
@@ -724,3 +724,14 @@ I really like this feature and I think it adds some flare and personality to my 
 
 **Link to work:**
 [Emily Brooks Portfolio](https://emilybrooksportfolio.com/)
+
+### Day 63: Tuesday, April 19, 2022
+
+**Today's Progress:**
+Adding some JS so all the answers close when the Q&A with Emily button is clicked to close section. That way, when button is toggled, everything goes back to original state.
+
+**Thoughts:**
+Got it to work on the first element. Need to work on all elements.
+
+**Link to work:**
+[Emily Brooks Portfolio Repo](https://github.com/emilyebrooks/emily-brooks-portfolio)
