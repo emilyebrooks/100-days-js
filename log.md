@@ -733,5 +733,20 @@ Adding some JS so all the answers close when the Q&A with Emily button is clicke
 **Thoughts:**
 Got it to work on the first element. Need to work on all elements.
 
+**Update:**
+I worked on this later in the day and figured out how to remove styles on all answers so they are hidden again when someone clicks the Q&A button again to close the section. Very satisfying! Changes are live on site now.
+
 **Link to work:**
 [Emily Brooks Portfolio Repo](https://github.com/emilyebrooks/emily-brooks-portfolio)
+[Emily Brooks Portfolio](https://emilybrooksportfolio.com/)
+
+### Day 64: Wednesday, April 20, 2022
+
+**Today's Progress:**
+Started the Scroll Project with John Smilga.
+
+**Thoughts:**
+Lots of components on this project. I might implement the dynamic nav bar on the Brooks Psychotherapy site. I like watching someone code. It's very revealing.
+
+**Link to work:**
+[Scroll Project Video](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=12765s)
