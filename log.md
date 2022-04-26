@@ -750,3 +750,14 @@ Lots of components on this project. I might implement the dynamic nav bar on the
 
 **Link to work:**
 [Scroll Project Video](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=12765s)
+
+### Day 65: Monday, April 25, 2022
+
+**Today's Progress:**
+Continued watching the Scroll Project with John Smilga.
+
+**Thoughts:**
+He is working on lots of different pieces with this project. Is it weird that I find it relaxing to watch him code. Haha!
+
+**Link to work:**
+[Scroll Project Video](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=12765s)
