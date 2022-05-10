@@ -761,3 +761,14 @@ He is working on lots of different pieces with this project. Is it weird that I 
 
 **Link to work:**
 [Scroll Project Video](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=12765s)
+
+### Day 66: Monday, May 9, 2022
+
+**Today's Progress:**
+Wow! It's been 2 weeks since I last did an update. I got a job! Woo-hoo! So I took some time off to reset, recharge and just rest. I was coding, working and job searching night and day so it felt good to think less for a few weeks. Then, starting the job, I get to code all day long! Well, sort of, but even if I am not coding, I am learning new things all day, so that is great. Anyway, I still want to maintain some indpendent learning, so I dove into this video for how to make a card game using JavaScript.
+
+**Thoughts:**
+Again, I find it very relaxing and interesting to watch someone code. I like how quickly this video moves, and I see lots of code that I haven't learned before, so it's quite interesting.
+
+**Link to work:**
+[Card Game with JavaScript](https://www.google.com/search?q=How+to+make+solitaire+game+using+javascript%3F&oq=How+to+make+solitaire+game+using+javascript%3F&aqs=chrome..69i57j33i160l3.13208j0j4&sourceid=chrome&ie=UTF-8#kpvalbx=_m615YvGiNdqS9PwPkKKjyAs39)
